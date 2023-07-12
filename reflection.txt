@@ -1,0 +1,4 @@
+I think having the pseudocode of the dfs and bfs helped a lot when programming them.
+Since I had no prior experience with programming in any language, I did struggle a lot 
+and it took me a lot of time to figure out how to program the actual code of the dfs and bfs. 
+I still am not sure if my program fully works, since I don't know how to run it. 
